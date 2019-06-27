@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<name>
+		<lang name="default">Notify</lang>
+	</name>
+	<author>
+		<lang name="default">Oleg Demidov</lang>
+	</author>
+	<homepage></homepage>
+	<settings></settings>
+	<version>1.0.0</version>
+	<requires>
+		<livestreet>2.0.1</livestreet>
+		<plugins>
+		</plugins>
+	</requires>
+	<description>
+		<lang name="default">Notify</lang>
+		<lang name="russian">Оповещения</lang>
+	</description>
+</plugin>
